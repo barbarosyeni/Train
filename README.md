@@ -1,6 +1,6 @@
 # 
 
-"ENGLİSH"
+"ENGLISH"
 
 What does the application do?
 
